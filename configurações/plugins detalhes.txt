@@ -1,0 +1,13 @@
+ <!-- Plugin for the Wizard, full documentation here: https://github.com/VinceG/twitter-bootstrap-wizard -->
+ <!--	Plugin for Select, full documentation here: http://silviomoreto.github.io/bootstrap-select -->
+  <!--  Plugin for the DateTimePicker, full documentation here: https://eonasdan.github.io/bootstrap-datetimepicker/ -->
+  <!--  DataTables.net Plugin, full documentation here: https://datatables.net/  -->
+<!--  Full Calendar Plugin, full documentation here: https://github.com/fullcalendar/fullcalendar    -->
+  <!-- Vector Map plugin, full documentation here: http://jvectormap.com/documentation/ -->
+  <!--  Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
+   <!-- Include a polyfill for ES6 Promises (optional) for IE11, UC Browser and Android browser support SweetAlert -->
+  <!-- Library for adding dinamically elements -->
+   <!--  Google Maps Plugin    -->
+ 
+  <!-- Plugin for Fileupload, full documentation here: http://www.jasny.net/bootstrap/javascript/#fileinput -->
+<!--	Plugin for Tags, full documentation here: https://github.com/bootstrap-tagsinput/bootstrap-tagsinputs  -->
